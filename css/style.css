@@ -1,0 +1,29 @@
+body {
+    background-color: sandybrown;
+}
+
+.box {
+    width: 500px;
+
+
+}
+
+header {
+    font-size: 40px;
+    width: 900px;
+    text-align: center;
+    color: sienna;
+}
+
+main {
+    width: 1000px;
+    border: 2px solid sienna;
+
+
+}
+
+button {
+    width: 500px;
+    padding: 20px;
+    font-size: 20px;
+}
